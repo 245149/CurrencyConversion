@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CurrencyConversion</string>
+    <string name="spinner_nfo">Choose the input (user given) value currency: </string>
+    <string name="outputValue_nfo">This is your output (converted) value in PLN: </string>
+    <string name="button">CALCULATE</string>
+    <string-array name="currencySpinner">
+        <item>USD</item>
+        <item>EUR</item>
+        <item>CHF</item>
+        <item>GBP</item>
+    </string-array>
+</resources>
